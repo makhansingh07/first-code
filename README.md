@@ -1,13 +1,21 @@
-#first-code - makhan singh
-hi, i am makhan singh from alwar, rajasthan
+# First-Code - My C Programming Journey
 
-## about me
--learning c programming
--learning github for job
--day 2 update - daliy commits
+Hi, I'm *Makhan Singh* from Alwar, Rajasthan. 👋
 
-## my code
-this repo has hello.c - my first c program.
+This repository documents my journey of learning C programming from scratch to advanced level. I am committed to daily commits and clean code.
 
-## goal
-want to get a good IT job and learn company-level coding.
+### 🚀 What I'm Learning
+- C Basics (Variables, Loops, Functions)
+- Logic Building & Problem Solving
+- Git & GitHub
+
+### 📁 Projects in this Repo
+- hello.c - First program
+- sum.c - Professional Calculator with error handling
+
+### 🎯 Goal
+Looking for an Internship / Junior Developer role.
+
+### 📫 Connect
+- GitHub: @makhansingh07
+- Location: Alwar, Rajasthan#
